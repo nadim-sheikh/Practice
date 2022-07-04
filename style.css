@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins&family=Roboto:wght@400;500&display=swap');
+
+/*fast section start*/
+body {
+    margin: 0%;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.color {
+    color: orange;
+}
+
+.flexebal-contenar {
+    display: flex;
+    padding-bottom: 150px;
+}
+
+.flexebal-contenar img {
+    width: 74%;
+    padding-left: 19%;
+}
+
+h1 {
+    font-size: 60px;
+    color: rgb(77, 77, 77);
+}
+
+.text {
+    width: 60%;
+    padding-left: 8%;
+    padding-top: 10%;
+    color: gray;
+}
+
+.text p {
+    font-size: 26px;
+}
+
+.btn {
+    background-image: linear-gradient(tomato,orange);
+    text-decoration: none;
+    color: white;
+    padding: 15px 35px;
+    border-radius: 50px;
+    font-size: 20px;
+    font-weight: 600;
+}
+/*fast section End*/
+/*Scend section Start*/
+.flexebal-contenar-2 {
+    display: flex;
+    padding-bottom: 15%;
+}
+.about-bg{
+    background-image: url(img/7.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.flexebal-contenar-2 img{
+    width: 45%;
+    padding-left: 32%;
+    padding-top: 6.9%;
+  }
+.text-2{
+    width: 32%;
+    padding-top: 10%;
+    color: gray;
+}
+.text-2 p{
+    font-size: 26px;
+}
+/*Scend section End*/
+/*Thard section start*/
