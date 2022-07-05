@@ -163,3 +163,21 @@ h1 {
     text-align: center;
 }
 /*Number Counter End*/
+/*footer Start*/
+h2{
+    font-size: 40px;
+}
+.footer{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 120px;
+    color: white;
+    background-color: rgb(5, 4, 8);
+}
+.footer p{
+    font-size: 20px;
+}
+.footer span{
+    color: orange;
+}
+/*footer End*/
